@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Photography by Ben]]></title>
         <description><![CDATA[Photography by Ben]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/photography-by-ben/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 25 Apr 2016 17:50:48 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 25 Apr 2016 18:08:18 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/photography-by-ben/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a7b7e8bd-4500-486d-872a-5c1d1e4ea1d5.jpg">]]></description>
+            <link>https://thegrid.ai/photography-by-ben/8e903cfc-d1e2-41c9-922e-8ba725d98045/index.html</link>
+            <guid isPermaLink="false">8e903cfc-d1e2-41c9-922e-8ba725d98045</guid>
+            <pubDate>Mon, 25 Apr 2016 18:07:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0ed43e4c-2526-444b-a20c-54d80b19f4b3.jpg">]]></description>
-            <link>undefinedfe2aac43-d191-47ae-90cd-b0c5d80db938/index.html</link>
+            <link>https://thegrid.ai/photography-by-ben/fe2aac43-d191-47ae-90cd-b0c5d80db938/index.html</link>
             <guid isPermaLink="false">fe2aac43-d191-47ae-90cd-b0c5d80db938</guid>
             <pubDate>Mon, 25 Apr 2016 17:50:47 GMT</pubDate>
         </item>
