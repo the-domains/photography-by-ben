@@ -1,6 +1,6 @@
 name: Photography by Ben
 favicon: null
-layout_spectrum: 1
+layout_spectrum: 0.36340992874465883
 typography_spectrum: 0.32875309768132865
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0
+  brandStrength: 0.47348858369514346
   lightness: 0.9388959985226393
   saturation: 0.29080300498753786
-  rhythmicContrast: 0.25
+  rhythmicContrast: 0.41840251977555454
 purpose: []
