@@ -24,11 +24,7 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation:
-  - id: benjaminblue.me
-    url: benjaminblue.me
-    name: Main page
-    type: external
+navigation: []
 favicon: null
 title: Photography by Ben
 purpose: []
