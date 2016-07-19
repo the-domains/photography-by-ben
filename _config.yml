@@ -1,20 +1,4 @@
-name: Photography by Ben
-favicon: null
-layout_spectrum: 0.23536
 typography_spectrum: 0.39726
-title: Photography by Ben
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
 color:
   brandColors:
     - '#13262d'
@@ -26,4 +10,25 @@ color:
   lightness: 0.4375
   saturation: 0.1875
   rhythmicContrast: 0.5
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.23536
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: Photography by Ben
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - id: benjaminblue.me
+    url: benjaminblue.me
+    name: Main page
+    type: external
+favicon: null
+title: Photography by Ben
 purpose: []
