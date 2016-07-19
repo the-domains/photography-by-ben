@@ -24,7 +24,11 @@ cta:
   domain: null
   bucket: null
   version: null
-navigation: []
+navigation:
+  - id: 'http://benjaminblue.me'
+    url: 'http://benjaminblue.me'
+    name: Main Page
+    type: external
 favicon: null
 title: Photography by Ben
 purpose: []
